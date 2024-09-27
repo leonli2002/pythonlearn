@@ -31,3 +31,5 @@ mul(1,2,3)
 C="Composite"
 D=[1,2,3]
 mul('A','c',C,D)
+mul(*D)
+
